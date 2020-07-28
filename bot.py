@@ -23,9 +23,9 @@ movies = []
 client = commands.Bot(command_prefix='$')
 
 ## TODO:
-# Each member can only nominate one movie
-# Clear out movies after vote is done
+# Each member can only nominate one movie, clear out movies after vote is done
 # DbD commands to choose killer
+# Host this shit on AWS, Read in API Key in a safe way
 
 
 @client.event
